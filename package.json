@@ -1,0 +1,14 @@
+{
+  "name": "1984",
+  "version": "1.0.0",
+  "description": "By George Orwell",
+  "scripts": {
+    "test": "cho Its all good!",
+    "build": "madoko 1984.md --odir=site/"
+  },
+  "devDependencies": {
+    "madoko": "^1.0.1"
+  },
+  "author": "George Orwell",
+  "license": "UNLICENSED"
+}
