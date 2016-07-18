@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "By George Orwell",
   "scripts": {
-    "test": "cho Its all good!",
+    "test": "echo Its all good!",
     "build": "madoko 1984.md --odir=site/"
   },
   "devDependencies": {
