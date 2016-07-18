@@ -3,7 +3,7 @@ node_js: "node"
 
 before_deploy:
   - npm run build
-  - mv site/1894.html site/index.html
+  - mv site/1984.html site/index.html
   
 deploy:
   provider: surge
